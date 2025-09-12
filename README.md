@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">🚀 Currently studying **Software Engineering** and improving my professional skills.<br>  
+<p align="left">  
  📚 Passionate about continuous learning and sharing knowledge.<br>  
  🤝 Open to collaborating on **open-source projects**.<br>  
  🎸 In my free time, I enjoy playing guitar and music.</p>

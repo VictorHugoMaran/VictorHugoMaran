@@ -11,7 +11,10 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning Python.</p>
+<p align="left">✨🚀 Currently studying **Software Engineering** and improving my professional skills.<br>  
+ 📚 Passionate about continuous learning and sharing knowledge.<br>  
+ 🤝 Open to collaborating on **open-source projects**.<br>  
+ 🎸 In my free time, I enjoy playing guitar and music.</p>
 
 ###
 

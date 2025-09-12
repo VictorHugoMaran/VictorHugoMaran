@@ -20,7 +20,7 @@
 
 <h2 align="left">🌍 Connect with me</h2>
 
- <p align="left"> 💼 [LinkedIn] : www.linkedin.com/in/victor-hugo-maran-kalomenconkovas-3531b1297 <br>  
+ <p align="left"> 💼 [LinkedIn] : www.linkedin.com/in/vhmk123 <br>  
  📧 [Email] : victorhugomarankalomenconkovas@gmail.com 
  </p>
 

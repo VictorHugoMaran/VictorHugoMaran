@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Victor Hugo and I'm a Full-Stack Developer, from Brasil !</p>
+<p align="left">💻 My name is Victor Hugo and I'm a Full-Stack Developer, from Brasil !<br>
+🚀 Always eager to learn new technologies and improve my skills.</p>
 
 ###
 

@@ -13,7 +13,7 @@
 
 <p align="left">  
  📚 Passionate about continuous learning and sharing knowledge.<br>  
- 🤝 Open to collaborating on *open-source projects*.<br>  
+ 🤝 Open to collaborating on open-source projects.<br>  
  🎸 In my free time, I enjoy playing guitar and listen music.</p>
 
 ###

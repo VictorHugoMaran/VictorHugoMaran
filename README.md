@@ -1,28 +1,31 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá 👋 Tudo bem?</h1>
 
 ###
 
-<p align="left">💻 My name is Victor Hugo and I'm a Full-Stack Developer, from Brasil !<br>
-🚀 Always eager to learn new technologies and improve my skills.</p>
+<p align="left">💻 Meu nome é Victor Hugo e sou Desenvolvedor Full-Stack!<br>
+🎓 Atualmente sou estudante de Engenharia de Software.<br>
+⚙️ Tenho preferência por desenvolvimento Back-End.<br>
+🚀 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
 <p align="left">  
- 📚 Passionate about continuous learning and sharing knowledge.<br>  
- 🤝 Open to collaborating on open-source projects.<br>  
- 🎸 In my free time, I enjoy playing guitar and listen music.</p>
+📚 Dedicado a sempre aprender mais e mais.<br>  
+🤝 Aberto a colaborar em projetos open-source.<br>  
+</p>
 
 ###
 
-<h2 align="left">🌍 Connect with me</h2>
+<h2 align="left">🌍 Conecte-se comigo</h2>
 
- <p align="left"> 💼 [LinkedIn] : www.linkedin.com/in/vhmk123 <br>  
- 📧 [Email] : victorhugomarankalomenconkovas@gmail.com 
- </p>
+<p align="left">  
+💼 [LinkedIn] : www.linkedin.com/in/vhmk123 <br>  
+📧 [Email] : victorhugomarankalomenconkovas@gmail.com 
+</p>
 
 ###
 

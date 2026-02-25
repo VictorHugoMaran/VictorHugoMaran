@@ -29,7 +29,7 @@
 
 ###
 
-<h2 align="left">Tecnologias que utilizo</h2>
+<h2 align="left">⚙️ Tecnologias que utilizo</h2>
 
 ###
 

@@ -44,11 +44,3 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoMaran&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
-
----
-
-<div align="center">
-
-*"Primeiro faça funcionar, depois faça funcionar bem, depois faça funcionar rápido."*
-
-</div>

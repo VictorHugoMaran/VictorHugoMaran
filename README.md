@@ -1,48 +1,55 @@
-<h1 align="left">Olá 👋 Tudo bem?</h1>
+<div align="center">
 
-###
+# Olá, eu sou Victor Hugo 👋
 
-<p align="left">💻 Meu nome é Victor Hugo e sou Desenvolvedor Full-Stack!<br>
-🎓 Atualmente sou estudante de Engenharia de Software.<br>
-⚙️ Tenho preferência por desenvolvimento Back-End.<br>
-🚀 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades.</p>
+**Desenvolvedor Full-Stack · Engenharia de Software · Apaixonado por Back-End**
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vhmk123)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorhugomarankalomenconkovas@gmail.com)
 
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">  
-📚 Dedicado a sempre aprender mais e mais.<br>  
-🤝 Aberto a colaborar em projetos open-source.<br>  
-</p>
-
-###
-
-<h2 align="left">🌍 Conecte-se comigo</h2>
-
-<p align="left">  
-💼 [LinkedIn] : www.linkedin.com/in/vhmk123 <br>  
-📧 [Email] : victorhugomarankalomenconkovas@gmail.com 
-</p>
-
-###
-
-<h2 align="left">⚙️ Tecnologias que utilizo</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
+---
+
+## 🧑‍💻 Sobre mim
+
+```text
+💻  Desenvolvedor Full-Stack com foco em Back-End
+🎓  Estudante de Engenharia de Software
+⚙️  Preferência por arquitetura de sistemas e APIs robustas
+🚀  Sempre aprendendo novas tecnologias
+🤝  Aberto a colaborar em projetos open-source
+```
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=vhmk123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhmk123&layout=compact&langs_count=6&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Primeiro faça funcionar, depois faça funcionar bem, depois faça funcionar rápido."*
+
+</div>

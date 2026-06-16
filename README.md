@@ -15,7 +15,6 @@
 ```text
 💻  Desenvolvedor Full-Stack com foco em Back-End
 🎓  Estudante de Engenharia de Software
-⚙️  Preferência por arquitetura de sistemas e APIs robustas
 🚀  Sempre aprendendo novas tecnologias
 🤝  Aberto a colaborar em projetos open-source
 ```

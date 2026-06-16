@@ -44,6 +44,8 @@
 
 </div>
 
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorHugoMaran/VictorHugoMaran/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorHugoMaran/VictorHugoMaran/output/snake.svg">

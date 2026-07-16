@@ -9,7 +9,6 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Hugo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vhmk123)
-![Profile Views](https://komarev.com/ghpvc/?username=VictorHugoMaran&style=for-the-badge&color=0e75b6)
 
 </div>
 

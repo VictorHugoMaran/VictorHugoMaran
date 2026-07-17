@@ -21,7 +21,6 @@
 - 🐍 Estudando e desenvolvendo projetos com **Python e Flask**
 - 🗄️ Aprendendo bancos de dados relacionais com **MySQL e PostgreSQL**
 - 🐳 Explorando conteinerização e ambientes de desenvolvimento com **Docker**
-- 🐧 Usuário Linux e entusiasta de novas tecnologias
 - 🤝 Aberto a colaborar em projetos e aprender com a comunidade
 
 ---
